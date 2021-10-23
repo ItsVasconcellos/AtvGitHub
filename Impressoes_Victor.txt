@@ -1,0 +1,12 @@
+* O que você gostaria de aprender no curso, quais melhorias você sugere?
+R: Gostaria de aprender tecnologias para DevOps e administração de sistemas.
+
+* Sugira, quais os pontos fortes do curso, os pontos fracos, etc. Faça também sugestões.
+R: Eu considero a didática das matérias práticas um ponto forte, pois através de projetos práticos podemos
+colocar nossas habilidades e conhecimentos em prática e aprender mais conforme dúvidas vão surgindo. Em contrapartida,
+eu acho que as matérias teóricas são muito cansativas e maçantes, pois quase sempre as matérias teóricas estão agrupadas
+no mesmo horário. Minha sugestão é que as matérias sejam organizadas de forma que seja menos cansativo para os alunos,
+intercalando entre práticas e teóricas.
+
+* Para a disciplina de tópicos: o que você gostaria de aprender nessa disciplina?
+R: Eu acharia extremamente interessante aprendermos tecnologias como o Docker (básico).
