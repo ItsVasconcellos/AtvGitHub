@@ -15,3 +15,5 @@ R: Eu acharia extremamente interessante aprendermos tecnologias como o Docker (b
 Comentários
 
 Júlia: Docker me parece interessante, mas não conheço muito sobre.
+
+Paulo: Concordo Victor!
