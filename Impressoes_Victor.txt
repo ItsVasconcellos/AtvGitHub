@@ -1,3 +1,5 @@
+Nome: Victor Hugo Betoni 	RA: 200154
+
 * O que você gostaria de aprender no curso, quais melhorias você sugere?
 R: Gostaria de aprender tecnologias para DevOps e administração de sistemas.
 
@@ -10,3 +12,8 @@ intercalando entre práticas e teóricas.
 
 * Para a disciplina de tópicos: o que você gostaria de aprender nessa disciplina?
 R: Eu acharia extremamente interessante aprendermos tecnologias como o Docker (básico).
+
+---------------------------
+Comentários
+
+Júlia: Docker me parece interessante, mas não conheço muito sobre.
