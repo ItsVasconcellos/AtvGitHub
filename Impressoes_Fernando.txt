@@ -1,3 +1,6 @@
+=======
+Nome: Fernando Antonio Vasconcellos    RA:200128
+
 O que você gostaria de aprender no curso?
 Resposta: Gostaria de aprender linguagens tais como python e swift.
 
@@ -7,3 +10,10 @@ Como ponto fraco atribuiria a grande quantidade matérias teóricas, as quais ac
 
 * Para a disciplina de tópicos: o que você gostaria de aprender nessa disciplina?
 Resposta: Gostaria de aprender a utilizar o Microsoft Azure.
+
+
+---------------------------
+Comentários
+
+Júlia: Muito legal os pontos comentados!!
+

@@ -2,3 +2,6 @@ Nome: Júlia Téles Cruz 	RA: 200558
 
 	O curso de Informática do COTIL oferece uma base de programação e dá enfoque a matérias teoricas, nas quais se desenvolve a manipulação de dados e a documentação de projetos.
 	Na matéria de Redes lecionada para o primeiro ano do curso, os alunos acabaram perdendo a parte prática em consequência do agravamento da pandemia da Covid-19 em 2020. 
+
+---------------------------
+Comentários
