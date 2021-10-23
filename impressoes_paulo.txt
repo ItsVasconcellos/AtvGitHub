@@ -4,6 +4,8 @@ O curso é bem maneiro, gostaria de aprender a linguagem python, quais os pontos
 ---------------------------
 Comentários
 
-Júlia: Phyton seria demais!
+Júlia: Python seria demais!
 
 Victor: Python seria muito útil para aprender lógica de programação
+
+Fernando: Python seria interessante também, poderia ser usado para a programação de bots por exemplo.
