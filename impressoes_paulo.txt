@@ -1,8 +1,9 @@
 Nome: Paulo Eduardo Crystal 	RA:200143
-O curso é bem maneiro, gostaria de aprender a linguagem phyton, quais os pontos fortes do curso, algumas materias são muito monotonas. A disciplina de topico está boa!
+O curso é bem maneiro, gostaria de aprender a linguagem python, quais os pontos fortes do curso, algumas materias são muito monotonas. A disciplina de topico está boa!
 
 ---------------------------
 Comentários
 
 Júlia: Phyton seria demais!
 
+Victor: Python seria muito útil para aprender lógica de programação
