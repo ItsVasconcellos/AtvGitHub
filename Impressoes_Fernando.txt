@@ -1,1 +1,9 @@
->
+O que você gostaria de aprender no curso?
+Resposta: Gostaria de aprender linguagens tais como python e swift.
+
+Sugira, quais os pontos fortes do curso, os pontos fracos, etc. Faça também sugestões.
+Resposta: Acredito que o ponto mais forte do curso seria o fato do curso estar sempre se atualizando e ter excelentes profissionais lecionando.
+Como ponto fraco atribuiria a grande quantidade matérias teóricas, as quais acabam sendo um pouco monótonas e cansativas.
+
+* Para a disciplina de tópicos: o que você gostaria de aprender nessa disciplina?
+Resposta: Gostaria de aprender a utilizar o Microsoft Azure.
