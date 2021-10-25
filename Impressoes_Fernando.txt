@@ -20,3 +20,5 @@ Paulo: Swift parece maneiro
 
 Victor: Microsoft Azure parece uma tecnologia muito util!
 
+Lucas: Microsoft Azure me parece ser uma tecnologia que ajudaria muito no aprendizado de computação em nuvem, gostaria muito de aprender!
+

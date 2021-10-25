@@ -18,3 +18,5 @@ Júlia: Docker me parece interessante, mas não conheço muito sobre.
 Paulo: Concordo Victor!
 
 Fernando: Tenho que concordar sobre as matérias teóricas!
+
+Lucas: Gostaria muito de aprender administração de sistemas também!

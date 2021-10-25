@@ -9,3 +9,5 @@ Júlia: Python seria demais!
 Victor: Python seria muito útil para aprender lógica de programação
 
 Fernando: Python seria interessante também, poderia ser usado para a programação de bots por exemplo.
+
+Lucas: Gostaria muito de aprender Python, talvez até mesmo como primeira introdução à programação
